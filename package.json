@@ -1,0 +1,42 @@
+{
+  "name": "jxr-canvas",
+  "version": "1.8.0",
+  "description": "Create canvas simple",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JXR-TEAM/jxr-canvas.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "canvas discord",
+    "canvas-discord",
+    "discord-canvas",
+    "discord canvas",
+    "djs",
+    "djs bot",
+    "bot discord",
+    "discord",
+    "html5",
+    "discord js",
+    "herokuapp",
+    "jxr canvas",
+    "jxr team"
+  ],
+  "author": "JXR TEAM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JXR-TEAM/jxr-canvas/issues"
+  },
+  "homepage": "https://github.com/JXR-TEAM/jxr-canvas#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "canvas-gif": "github:AlipBot/canvas-gif-attp",
+    "fortnite-9812": "^1.0.4",
+    "fortnite": "^4.3.2",
+    "moment": "^2.29.1"
+  }
+}
